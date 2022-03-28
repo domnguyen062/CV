@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "."
+		},
+		{
+			"name": "Blog-project",
+			"path": "..\\Blog-project"
+		},
+		{
+			"name": "CV",
+			"path": "..\\CV"
+		},
+		{
+			"name": "images",
+			"path": "..\\images"
+		},
+		{
+			"name": "helloworld",
+			"path": "..\\helloworld"
+		}
+	],
+	"settings": {}
+}
